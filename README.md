@@ -6,8 +6,9 @@
 - what kind of operation system do you use:
   - Windows: 
     - Please install wsl! Running deal.ii under Windows is a bet not worth taking!
-    - other important steps
+    - Read [Using deal.II with the Windows Subsystem for Linux](https://github.com/dealii/dealii/wiki/Windows#using-dealii-with-the-windows-subsystem-for-linux)
   - Mac: 
+    - see [MacOSX](https://github.com/dealii/dealii/wiki/MacOSX) and [Apple ARM M1 OSX](https://github.com/dealii/dealii/wiki/Apple-ARM-M1-OSX)
   - Linux: everthing is fine! Please contiue! 
 - clone the repository 
   ````bash
