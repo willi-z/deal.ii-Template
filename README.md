@@ -7,6 +7,7 @@
   - Windows: 
     - Please install wsl! Running deal.ii under Windows is a bet not worth taking!
     - Read [Using deal.II with the Windows Subsystem for Linux](https://github.com/dealii/dealii/wiki/Windows#using-dealii-with-the-windows-subsystem-for-linux)
+    - [Visual Studio and WSL 2](https://docs.microsoft.com/en-us/cpp/build/walkthrough-build-debug-wsl2?view=msvc-170)
   - Mac: 
     - see [MacOSX](https://github.com/dealii/dealii/wiki/MacOSX) and [Apple ARM M1 OSX](https://github.com/dealii/dealii/wiki/Apple-ARM-M1-OSX)
   - Linux: everthing is fine! Please contiue! 
