@@ -15,6 +15,20 @@
   ````bash
   git clone
   ````
+  
+### Change the deal.ii-version
+
+```
+ export REPO=ppa:ginggs/deal.ii-9.3.2-backports # old version
+ add-apt-repository --remove $REPO
+```
+
+```
+ export REPO=ppa:ginggs/deal.ii-9.4.0-backports # new version
+ add-apt-repository $REPO
+ apt-get update
+ apt-get install libdeal.ii-dev libdeal.ii-doc # could not test this
+```
 
 ### Deployment
 
